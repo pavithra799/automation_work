@@ -1,0 +1,12 @@
+{ 
+"teamsAllowed": 6,
+ "name": "Testing T-20",
+ "leagueId": 1493,
+ "inningsId": 1469,
+ "isGuaranteed": false,
+ "minPlayers": 2,
+ "prizeStructureId": 991, "isRecommended": true,
+ "brandId": 1,
+ "releaseTime": "2018-02-13 00:00:00",
+"channelIds": [3]
+}
