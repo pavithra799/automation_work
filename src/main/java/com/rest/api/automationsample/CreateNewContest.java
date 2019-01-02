@@ -18,7 +18,7 @@ public class CreateNewContest
 		RestAssured.baseURI="http://10.10.14.113:8090/ls/api/leagueservice/contest/";
 		RestAssured.basePath= "/simpleContest";
 		
-		File json= new File("C:\\Users\\ff\\Desktop\\sample.json");
+		File json= new File("jsonfiles\\sample.json");
 		Response respone=given().contentType(ContentType.JSON).log().all().body(json).post();
 		
 		respone.prettyPrint();
