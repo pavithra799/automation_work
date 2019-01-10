@@ -1,0 +1,21 @@
+{
+   "duration":900000,
+   "name":"Winner Takes All",
+   "total_number_of_games":2,
+   "is_live":1,
+   "prize_type":2,
+   "prize_structure_type":0,
+   "entry_fee":20,
+   "bonus_entree_fee_percent":0,
+   "reg_open_window":730000,
+   "variant":1,
+   "variant_type":6,
+   "game_type":1,
+   "game_duration":60000,
+   "max_players":3,
+   "priority":2,
+   "rebuy":1,
+   "guaranteed_prize":20,
+   "brand_id":26,
+   "clonable":2000
+}

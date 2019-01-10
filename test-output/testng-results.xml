@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3092" started-at="2019-01-02T10:10:00Z" finished-at="2019-01-02T10:10:03Z">
+  <suite name="Default suite" duration-ms="22165" started-at="2019-01-10T09:30:00Z" finished-at="2019-01-10T09:30:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3092" started-at="2019-01-02T10:10:00Z" finished-at="2019-01-02T10:10:03Z">
-      <class name="com.rest.api.update.UpdateContest">
-        <test-method status="PASS" signature="updateContest()[pri:0, instance:com.rest.api.update.UpdateContest@4edc67]" name="updateContest" duration-ms="3031" started-at="2019-01-02T10:10:00Z" finished-at="2019-01-02T10:10:03Z">
+    <test name="Default test" duration-ms="22165" started-at="2019-01-10T09:30:00Z" finished-at="2019-01-10T09:30:22Z">
+      <class name="com.rest.api.justkhel.CreateContest">
+        <test-method status="PASS" signature="createContest()[pri:0, instance:com.rest.api.justkhel.CreateContest@4edc67]" name="createContest" duration-ms="20971" started-at="2019-01-10T09:30:01Z" finished-at="2019-01-10T09:30:22Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- updateContest -->
-      </class> <!-- com.rest.api.update.UpdateContest -->
+        </test-method> <!-- createContest -->
+      </class> <!-- com.rest.api.justkhel.CreateContest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
