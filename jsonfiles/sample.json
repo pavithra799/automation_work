@@ -1,8 +1,8 @@
 { 
  "teamsAllowed": 2,
  "name": "Testing T-Sample 20",
- "leagueId": 1503,
- "inningsId": 1489,
+ "leagueId": 1808,
+ "inningsId": 2099,
  "isGuaranteed": false,
  "minPlayers": 2,
  "prizeStructureId": 991, "isRecommended": true,

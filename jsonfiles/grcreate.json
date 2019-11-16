@@ -1,0 +1,23 @@
+{
+  "brandId": 0,
+  "contestType": 1,
+  "createdBy": 0,
+  "criteriaId": 0,
+  "endTime": "2019-11-15T12:10:00+00:00",
+  "entryFee": 13,
+  "entryType": 0,
+  "gamesAllowed": 0,
+  "isGuaranteed": true,
+  "minPlayers": 0,
+  "name": "SAmple",
+  "priority": 0,
+  "prizeStructureId": 2,
+  "prizeType": 0,
+  "regEndTime": "2019-11-15T12:10:00+00:00",
+  "regStartTime": "2019-11-15T10:15:00+00:00",
+  "releaseTime": "2019-11-15T10:10:00+00:00",
+  "size": 5,
+  "startTime": "2019-11-15T10:15:00+00:00",
+  "templateId": 0,
+  "updatedBy": 0
+}

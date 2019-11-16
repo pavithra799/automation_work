@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22165" started-at="2019-01-10T09:30:00Z" finished-at="2019-01-10T09:30:22Z">
+  <suite name="Default suite" duration-ms="2312" started-at="2019-11-15T15:35:55 IST" finished-at="2019-11-15T15:35:58 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22165" started-at="2019-01-10T09:30:00Z" finished-at="2019-01-10T09:30:22Z">
-      <class name="com.rest.api.justkhel.CreateContest">
-        <test-method status="PASS" signature="createContest()[pri:0, instance:com.rest.api.justkhel.CreateContest@4edc67]" name="createContest" duration-ms="20971" started-at="2019-01-10T09:30:01Z" finished-at="2019-01-10T09:30:22Z">
+    <test name="Default test" duration-ms="2312" started-at="2019-11-15T15:35:55 IST" finished-at="2019-11-15T15:35:58 IST">
+      <class name="com.rest.api.goldRush.CreateGRContest">
+        <test-method status="PASS" signature="createContest()[pri:0, instance:com.rest.api.goldRush.CreateGRContest@35d176f7]" name="createContest" duration-ms="2239" started-at="2019-11-15T15:35:56 IST" finished-at="2019-11-15T15:35:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createContest -->
-      </class> <!-- com.rest.api.justkhel.CreateContest -->
+      </class> <!-- com.rest.api.goldRush.CreateGRContest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

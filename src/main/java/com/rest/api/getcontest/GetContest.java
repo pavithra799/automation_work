@@ -15,7 +15,7 @@ public class GetContest
     	RestAssured.baseURI="http://10.10.14.113:8090/ls/api/leagueservice/";
         RestAssured.basePath= "/contest";
         
-        Response req= given().contentType(ContentType.JSON).log().all().get("/5301");
+        Response req= given().contentType(ContentType.JSON).log().all().get("/6855");
         req.prettyPrint();
         
 	}
